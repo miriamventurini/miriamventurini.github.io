@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italy | Miriam Venturini</title>
+    <link>https://miriamventurini.github.io/tag/italy/</link>
+      <atom:link href="https://miriamventurini.github.io/tag/italy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Italy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miriamventurini.github.io/media/icon_huc9321b09f217cdcd4ac937081f4f593b_1380317_512x512_fill_lanczos_center_3.png</url>
+      <title>Italy</title>
+      <link>https://miriamventurini.github.io/tag/italy/</link>
+    </image>
+    
+    <item>
+      <title>Redistribution, Voting and Clientelism: Evidence from the Italian Land Reform</title>
+      <link>https://miriamventurini.github.io/publication/preprint/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
