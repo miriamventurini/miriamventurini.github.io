@@ -381,9 +381,15 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
 
   
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-
-
+ga('create', 'UA-XXXXX-Y', 'auto');
+ga('send', 'pageview');
+</script>
 
 
   <title>Writing technical content in Academic | Miriam Venturini</title>
@@ -742,7 +748,7 @@ data.head()
 <p>Demo:</p>
 
 
-<div id="chart-468571329" class="chart"></div>
+<div id="chart-943782615" class="chart"></div>
 <script>
   (function() {
     let a = setInterval( function() {
@@ -752,7 +758,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json("./line-chart.json", function(chart) {
-        Plotly.plot('chart-468571329', chart.data, chart.layout, {responsive: true});
+        Plotly.plot('chart-943782615', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
