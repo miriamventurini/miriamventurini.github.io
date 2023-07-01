@@ -5,7 +5,7 @@
     <link>https://miriamventurini.github.io/publication/</link>
       <atom:link href="https://miriamventurini.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://miriamventurini.github.io/media/icon_huc9321b09f217cdcd4ac937081f4f593b_1380317_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Agricultural Practices, Organized Workers and Female Political Empowerment: Evidence from Italian Mondine</title>
-      <link>https://miriamventurini.github.io/publication/preprint2/</link>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://miriamventurini.github.io/publication/preprint2/</guid>
+      <title>The imperfect union: labor racketeering, corruption exposure, and its consequences</title>
+      <link>https://miriamventurini.github.io/publication/preprint3/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Redistribution, Voting and Clientelism: Evidence from the Italian Land Reform</title>
+      <title>Harvesting Votes: The Electoral Effects of the Italian Land Reform</title>
       <link>https://miriamventurini.github.io/publication/preprint/</link>
-      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://miriamventurini.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural Practices, Organized Workers and Female Political Empowerment: Evidence from Italian Mondine</title>
+      <link>https://miriamventurini.github.io/publication/preprint2/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint2/</guid>
       <description></description>
     </item>
     

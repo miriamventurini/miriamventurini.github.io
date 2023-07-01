@@ -128,18 +128,26 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Agricultural Practices, Organized Workers and Female Political Empowerment: Evidence from Italian Mondine</title>
-      <link>https://miriamventurini.github.io/publication/preprint2/</link>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://miriamventurini.github.io/publication/preprint2/</guid>
+      <title>The imperfect union: labor racketeering, corruption exposure, and its consequences</title>
+      <link>https://miriamventurini.github.io/publication/preprint3/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Redistribution, Voting and Clientelism: Evidence from the Italian Land Reform</title>
+      <title>Harvesting Votes: The Electoral Effects of the Italian Land Reform</title>
       <link>https://miriamventurini.github.io/publication/preprint/</link>
-      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://miriamventurini.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural Practices, Organized Workers and Female Political Empowerment: Evidence from Italian Mondine</title>
+      <link>https://miriamventurini.github.io/publication/preprint2/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint2/</guid>
       <description></description>
     </item>
     
@@ -278,7 +286,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-643852791&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-731825496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -288,7 +296,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-643852791&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-731825496&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
