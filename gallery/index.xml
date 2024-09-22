@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery | Miriam Venturini</title>
+    <link>https://miriamventurini.github.io/gallery/</link>
+      <atom:link href="https://miriamventurini.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gallery</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://miriamventurini.github.io/media/icon_huc9321b09f217cdcd4ac937081f4f593b_1380317_512x512_fill_lanczos_center_3.png</url>
+      <title>Gallery</title>
+      <link>https://miriamventurini.github.io/gallery/</link>
+    </image>
+    
+  </channel>
+</rss>

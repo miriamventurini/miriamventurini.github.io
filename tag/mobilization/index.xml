@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobilization | Miriam Venturini</title>
+    <link>https://miriamventurini.github.io/tag/mobilization/</link>
+      <atom:link href="https://miriamventurini.github.io/tag/mobilization/index.xml" rel="self" type="application/rss+xml" />
+    <description>mobilization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miriamventurini.github.io/media/icon_huc9321b09f217cdcd4ac937081f4f593b_1380317_512x512_fill_lanczos_center_3.png</url>
+      <title>mobilization</title>
+      <link>https://miriamventurini.github.io/tag/mobilization/</link>
+    </image>
+    
+    <item>
+      <title>The Imperfect Union: Labor Racketeering, Corruption Exposure, and Its Consequences (job market paper)</title>
+      <link>https://miriamventurini.github.io/publication/preprint3/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural Practices, Organized Workers and Female Political Empowerment: Evidence from Italian Mondine</title>
+      <link>https://miriamventurini.github.io/publication/preprint2/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

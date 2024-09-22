@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agriculture | Miriam Venturini</title>
+    <link>https://miriamventurini.github.io/tag/agriculture/</link>
+      <atom:link href="https://miriamventurini.github.io/tag/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <description>agriculture</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://miriamventurini.github.io/media/icon_huc9321b09f217cdcd4ac937081f4f593b_1380317_512x512_fill_lanczos_center_3.png</url>
+      <title>agriculture</title>
+      <link>https://miriamventurini.github.io/tag/agriculture/</link>
+    </image>
+    
+    <item>
+      <title>Harvesting Votes: The Electoral Effects of the Italian Land Reform</title>
+      <link>https://miriamventurini.github.io/publication/preprint/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural Practices, Organized Workers and Female Political Empowerment: Evidence from Italian Mondine</title>
+      <link>https://miriamventurini.github.io/publication/preprint2/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://miriamventurini.github.io/publication/preprint2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
