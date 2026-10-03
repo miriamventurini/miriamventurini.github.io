@@ -152,7 +152,7 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Harvesting Votes: The Electoral Effects of the Italian Land Reform</title>
+      <title>Harvesting Votes: The Electoral Effects of the Italian Land Reform (conditionally accepted EJ)</title>
       <link>https://miriamventurini.github.io/publication/preprint/</link>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://miriamventurini.github.io/publication/preprint/</guid>
@@ -302,7 +302,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-421638957&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-374962185&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -312,7 +312,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-421638957&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-374962185&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
